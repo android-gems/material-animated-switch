@@ -1,3 +1,5 @@
+[![Android Gems](http://www.android-gems.com/badge/glomadrian/material-animated-switch.svg?branch=master)](http://www.android-gems.com/lib/glomadrian/material-animated-switch)
+
 Material Animated Switch  
 -----------------
 [![Download](https://api.bintray.com/packages/glomadrian/maven/MaterialAnimatedSwitch/images/download.svg) ](https://bintray.com/glomadrian/maven/MaterialAnimatedSwitch/_latestVersion)
